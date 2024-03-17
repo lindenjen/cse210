@@ -123,7 +123,6 @@ public class Program
                 if (goal is ChecklistGoal checklistGoal)
                 {
                     writer.WriteLine($"{goal.GetType().Name}|{goal.Name}|{goal.Points}|{goal.EventCount}" + checklistGoal.getValues());
-                    //writer.WriteLine(checklistGoal.Status());
                 } else {
                     writer.WriteLine($"{goal.GetType().Name}|{goal.Name}|{goal.Points}|{goal.EventCount}");
                 }

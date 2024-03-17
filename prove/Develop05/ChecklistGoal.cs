@@ -1,6 +1,5 @@
 public class ChecklistGoal : Goal
 {
-    //private int timesCompleted;
     private int totalRequired;
     private int bonusPoints;
     
