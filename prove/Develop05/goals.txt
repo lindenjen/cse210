@@ -1,0 +1,4 @@
+SimpleGoal|Chris Simple 1|50|1
+EternalGoal|Chris Eternal 2|100|1
+ChecklistGoal|Chris Checklist 3|50|5|5|500
+EternalGoal|Reading Scriptures|100|1
